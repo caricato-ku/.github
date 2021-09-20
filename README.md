@@ -1,2 +1,2 @@
 # .github
-Group Description for Public dispy
+Group Description for Public display
