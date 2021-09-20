@@ -1,5 +1,10 @@
 ## Caricato Research Group
 
+<p align="center">
+  <img src="https://github.com/caricato-ku/.github/blob/main/profile/caricato_group.gif?raw=true" alt="Caricato Group Logo"/>
+</p>
+
+
 We are a theoretical and computational chemistry group, with a focus on molecular quantum mechanics (QM) and electronic structure theory. 
 The main goal of our group is to understand how molecules behave and why. For instance, rather than finding the best catalyst for a particular reaction, 
 we want to understand why a certain catalyst works and another one doesn't. If methods are not available to do a simulation, we develop them. 
